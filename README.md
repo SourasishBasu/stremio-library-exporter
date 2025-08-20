@@ -34,6 +34,7 @@
 3. **Run the main extractor**:
    ```bash
    uv sync
+   uv run playwright install
    uv run movie_extractor.py
    ```
 
