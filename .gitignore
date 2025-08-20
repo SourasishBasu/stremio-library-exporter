@@ -1,0 +1,8 @@
+.env
+__pycache__
+pages
+output
+*.csv
+*.html
+.venv/
+venv/
